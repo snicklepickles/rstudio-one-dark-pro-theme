@@ -44,6 +44,7 @@ macOS Sequoia 15.0 Beta 2, RStudio 2024.04.2+764
 and
 ```
 Windows 10, RStudio 1.2.5033
+Windows 11 Pro, RStudio 2024.04.2+764
 ```
 
 The editor font I use is [Fira Code](https://github.com/tonsky/FiraCode), and the majority of the UI font is [Open Sans](https://fonts.google.com/specimen/Open+Sans). It is not necessary to install these.
