@@ -12,7 +12,7 @@ A 'Total IDE' build of the One Dark Pro theme for RStudio!
 Run the following snippet in the RStudio Console:
 
 ```r
-rstudioapi::addTheme('https://raw.githubusercontent.com/johnnybarrels/rstudio-one-dark-pro-theme/master/OneDarkPro.rstheme', apply=TRUE, force=TRUE)
+rstudioapi::addTheme('https://raw.githubusercontent.com/snicklepickles/rstudio-one-dark-pro-theme/master/OneDarkPro.rstheme', apply=TRUE, force=TRUE)
 ```
 
 Note that this will override any other theme named 'One Dark Pro' you may have (this can be controlled by removing the `force=True` argument).
@@ -39,6 +39,7 @@ This theme has been tested and is fully functional on:
 ```
 macOS Catalina 10.15.6, RStudio 1.4.750
 macOS Catalina 10.15.6, RStudio 1.4.1010
+macOS Sequoia 15.0 Beta 2, RStudio 2024.04.2+764
 ```
 and
 ```
